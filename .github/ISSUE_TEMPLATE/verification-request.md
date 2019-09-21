@@ -9,12 +9,12 @@ assignees: oliviakumar
 
 Please verify my project functionality. The required information is below:
 
-  - **Name:** FULL_NAME
-  - **Last Release:** OLD_RELEASE
-  - **This Release:** NEW_RELEASE
+  - **Name:** Rodriequz Anderson
+  - **Last Release:** N/A
+  - **This Release:** v1.0.0
 
 ```
-/home/public/cs212/project GITHUB_USER NEW_RELEASE
+/home/public/cs212/project driequz v1.0.0
 ```
 
 #### Functionality Grade
