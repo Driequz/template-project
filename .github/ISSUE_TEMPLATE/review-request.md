@@ -9,11 +9,11 @@ assignees: oliviakumar
 
 Please verify my project is ready for code review. The required information is below:
 
-  - **Name:** FULL_NAME
+  - **Name:** Rodriequz Anderson
   - **Last Review:** PULL
 
 ```
-/home/public/cs212/review GITHUB_USER RELEASE
+/home/public/cs212/review driequz v1.0.0
 ```
 
 #### Offline Review
